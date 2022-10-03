@@ -1,0 +1,100 @@
+GET http://localhost:8080/calculate?operand1=11&operator=+&operand2=55
+
+<> 2022-10-03T181957.200.txt
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator=*&operand2=55
+
+<> 2022-10-03T181949.200.txt
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator=*2b&operand2=55
+
+<> 2022-10-03T181933.500.html
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator=+&operand2=55
+
+<> 2022-10-03T181923.200.txt
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator=*&operand2=55
+
+<> 2022-10-03T181415.200.txt
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator=*&operand2=55
+
+<> 2022-10-03T181150.200.txt
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator= &operand2=55
+
+<> 2022-10-03T181139.500.html
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator= &operand2=55
+
+<> 2022-10-03T180817.500.html
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator=-&operand2=55
+
+<> 2022-10-03T180802.200.txt
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator= &operand2=55
+
+<> 2022-10-03T180732.500.html
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator= &operand2=55
+
+<> 2022-10-03T180705.500.html
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator=-&operand2=55
+
+<> 2022-10-03T180641.200.txt
+
+###
+
+GET http://localhost:8080/calculate?operand1=11&operator=*&operand2=55
+
+<> 2022-10-03T180623.200.txt
+
+###
+
+GET http://localhost:8080/calculate
+
+###
+
+GET http://localhost:8080/calculate
+
+###
+
+GET http://localhost:8080/calculate
+
+###
+
+GET http://localhost:8080/calculate
+
+###
+
+GET http://localhost:8080
+
+<> 2022-10-03T175703.404.html
+
+###
+
