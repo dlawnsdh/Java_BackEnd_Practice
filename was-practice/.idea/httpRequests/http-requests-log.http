@@ -1,0 +1,60 @@
+GET http://localhost:8080/calculate?operand1=100&operator=-&operand2=55
+
+<> 2022-09-29T164155.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=110&operator=*&operand2=55
+
+<> 2022-09-29T164154.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=100&operator=-&operand2=55
+
+<> 2022-09-29T164115.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=110&operator=*&operand2=55
+
+<> 2022-09-29T164113.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=100&operator=-&operand2=55
+
+<> 2022-09-29T162116.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=110&operator=*&operand2=55
+
+<> 2022-09-29T161422.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=110&operator=*&operand2=55
+
+<> 2022-09-29T143349.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=110&operator=*&operand2=55
+
+<> 2022-09-29T143303.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=110&operator=*&operand2=55
+
+<> 2022-09-29T143256.200.json
+
+###
+
+GET http://localhost:8080/calculate?operand1=10&operator= &operand2=50
+
+<> 2022-09-29T143236.200.json
+
+###
+
